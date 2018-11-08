@@ -1,6 +1,16 @@
 # AgileSphere test
 
-Please do npm install to get all node modules before running the application.
+# Key notes from Anand
+* Please do npm install to get all node modules before running the application.
+* Tried to cover unit test cases in all area for demonstration, however didn't intend to do full coverage.
+* When testing the application, Search will be enabled only when City name is provided. Table will be shown only after clicking on search if there is a valid result returned from API.
+* Please try only with valid city names as there is no specific error handling implemented, although there is a placeholder and comment mentioned in effects. Few of cities tried are London, Paris, Edinburgh etc.
+* Just like unit test cases, in e2e only covered key positive scenrios for demonstration. However there is a scope of adding more tests.
+* Last but not least, should there be any trouble downloading or running the application please give me a shout.
+Thanks,
+Anand.
+
+
 
 Using the Free open weather map api (http://openweathermap.org/forecast5 api key has been included inside weather.service.ts)
 

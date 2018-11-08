@@ -1,5 +1,7 @@
 # AgileSphere test
 
+Please do npm install to get all node modules before running the application.
+
 Using the Free open weather map api (http://openweathermap.org/forecast5 api key has been included inside weather.service.ts)
 
   * Build an application that allows you to search the weather forecast for a city. 
